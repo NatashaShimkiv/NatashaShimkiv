@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! I'm Natasha 👋</h1>  
 <h3 align="center">Junior QA Automation Engineer</h3>
-<div id="badges">
+<div align="center" id="badges">
   <a href="https://www.linkedin.com/in/natalia-shimkiv-60665b288/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

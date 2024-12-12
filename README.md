@@ -14,7 +14,16 @@ I am a beginner QA automation engineer, I completed a course on QA automation in
 
 I am glad to share with you here my projects and the skills I have gained along the way.
 
-
+#### 📫 How to reach me:
+<a href="https://www.linkedin.com/in/natalia-shimkiv-60665b288/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://mail.google.com/mail/u/0/#inbox">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+<a href="https://t.me/NatalyaShimkiv">
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
 
 <!--
 **NatashaShimkiv/NatashaShimkiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

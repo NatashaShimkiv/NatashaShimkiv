@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! I'm Natasha 👋</h1>  
+<h1 align="center"> Hi there! I'm Natasha 👋![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</h1>  
 <h3 align="center">Junior QA Automation Engineer</h3>
 
 <!--

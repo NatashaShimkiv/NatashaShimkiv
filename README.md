@@ -1,5 +1,9 @@
-<h1 align="center"> Hi there! I'm Natasha 👋![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</h1>  
+<h1 align="center"> Hi there! I'm Natasha 👋</h1>  
 <h3 align="center">Junior QA Automation Engineer</h3>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/natalia-shimkiv-60665b288/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 <!--
 **NatashaShimkiv/NatashaShimkiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

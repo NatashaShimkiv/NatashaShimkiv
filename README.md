@@ -1,5 +1,5 @@
-## Hi there 👋 I'm Natasha - Junior QA Automation Engineer
-
+## Hi there! I'm Natasha 👋  
+<h3 align="center">Junior QA Automation Engineer</h3>
 
 <!--
 **NatashaShimkiv/NatashaShimkiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

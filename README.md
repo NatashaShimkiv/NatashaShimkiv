@@ -1,4 +1,4 @@
-## Hi there! I'm Natasha 👋  
+<h1 align="center"> Hi there! I'm Natasha 👋</h1>  
 <h3 align="center">Junior QA Automation Engineer</h3>
 
 <!--

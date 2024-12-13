@@ -15,7 +15,7 @@ I am a beginner QA automation engineer, I completed a course on QA automation in
 I am glad to share with you here my projects and the skills I have gained along the way.
 
 #### 📫 How to reach me:
-<a href="https://www.linkedin.com/in/natalia-shimkiv-60665b288/">
+<a href="https://www.linkedin.com/in/natalia-shimkiv-60665b288/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://mail.google.com/mail/u/0/#inbox">
